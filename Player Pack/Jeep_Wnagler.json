@@ -1,0 +1,19 @@
+{
+    "VehicleName": "Jeep_Wnagler",
+    "DisplayName": "",
+    "Parts": [
+        "Jeep_Wnagler_doors_driver",
+        "Jeep_Wnagler_doors_codriver",
+        "wheel_Jeep_Wnagler",
+        "wheel_Jeep_Wnagler",
+        "wheel_Jeep_Wnagler",
+        "wheel_Jeep_Wnagler",
+		"wheel_Jeep_Wnagler",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+		"CanisterGasoline"
+    ]
+}

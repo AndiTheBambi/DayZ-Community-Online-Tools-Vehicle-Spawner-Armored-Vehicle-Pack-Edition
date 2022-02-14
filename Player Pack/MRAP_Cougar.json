@@ -1,0 +1,22 @@
+{
+    "VehicleName": "MRAP_Cougar",
+    "DisplayName": "",
+    "Parts": [
+        "mrap_doors_hood",
+        "mrap_doors_trunk",
+        "mrap_doors_trunk0",
+        "mrap_doors_codriver",
+        "mrap_doors_driver",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CanisterGasoline"
+    ]
+}

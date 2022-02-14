@@ -1,0 +1,21 @@
+{
+    "VehicleName": "LAPV_tan",
+    "DisplayName": "",
+    "Parts": [
+        "lapv_tan_doors_trunk",
+        "lapv_tan_doors_cargo1",
+        "lapv_tan_doors_cargo2",
+        "lapv_tan_doors_driver",
+        "lapv_tan_doors_codriver",
+        "wheel_lapv",
+        "wheel_lapv",
+        "wheel_lapv",
+        "wheel_lapv",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+		"CanisterGasoline"
+    ]
+}
